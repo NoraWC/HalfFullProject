@@ -4,6 +4,9 @@ a{
 a:visited{
     color: #0000EE;
 }
+a: clicked {
+    color: #000EE;
+}
 a:hover{
     color: #00004f;
 }
